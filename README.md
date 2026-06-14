@@ -11,11 +11,6 @@ Markdown y branding de Croma.
 
 ![Croma Agent](docs/screenshot.png)
 
-> Principio innegociable: nunca datos inventados. Cada herramienta devuelve datos
-> reales del endpoint o un error honesto. Si falta la API key o la API falla, la
-> respuesta es `{ error: "..." }` y el agente se lo dice al usuario; jamás rellena
-> con datos de ejemplo. Ver [No fabricamos datos](#no-fabricamos-datos).
-
 ---
 
 ## Características
